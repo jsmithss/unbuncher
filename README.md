@@ -69,3 +69,19 @@ Contact your IT team or the person who provided this tool.
 
 ---
 *Unbuncher: Excel Cell Unmerger v1.0*
+
+----
+
+## How to install
+
+Simplest installation is to download the zip file - this contains the Windows exe file with everything needed to run. Just unzip and save on your machine; drag an excel file onto the exe to run. 
+
+### Build requirements (if not already installed):
+
+To build; from command line install dependencies
+   `pip install openpyxl pyinstaller`
+Build the executable:
+Double-click build_executable.bat or run it from command prompt
+This will create a dist folder with Excel_Unmerger.exe
+Optional: Add an icon file named excel.ico in the same folder for a nicer-looking executable
+
