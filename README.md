@@ -74,7 +74,8 @@ Contact your IT team or the person who provided this tool.
 
 ## How to install
 
-Simplest installation is to download the zip file - this contains the Windows exe file with everything needed to run. Just unzip and save on your machine; drag an excel file onto the exe to run. 
+Simplest installation is to download the zip file - this contains the Windows exe file with everything needed to run. Just unzip and save on your machine; drag an excel file onto the exe to run.   
+
 Unsigned .exe files may trigger virus warnings in windows: Excel_Unbuncher has been scanned by [VirusTotal](https://www.virustotal.com/gui/file/46c9829b67691f88bb6b72169a2d8f42901100043ba3ac92ecea0fa8ddb3b797?nocache=1)
 
 
