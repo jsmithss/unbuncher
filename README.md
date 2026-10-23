@@ -1,6 +1,6 @@
 # Unbuncher: An Excel Cell Unmerger
 
-Merged cells in Excel break the core functionality and usability of the spreadsheet. [Read more here](https://theexcelclub.medium.com/stop-do-not-merge-cells-in-excel-heres-why-with-fixes-the-excel-club-4318dccfd318)
+Merged cells in Excel break the core functionality and usability of the spreadsheet. [Read more here](https://theexcelclub.medium.com/stop-do-not-merge-cells-in-excel-heres-why-with-fixes-the-excel-club-4318dccfd318).  
 There is a much better alternative - centre across range; but if you receive an Excel file with merged cell, this tool will help.
 
 Unbuncher is a simple tool to unmerge cells in Excel files and fill all previously merged cells with their content.
@@ -75,6 +75,8 @@ Contact your IT team or the person who provided this tool.
 ## How to install
 
 Simplest installation is to download the zip file - this contains the Windows exe file with everything needed to run. Just unzip and save on your machine; drag an excel file onto the exe to run. 
+Unsigned .exe files may trigger virus warnings in windows: Excel_Unbuncher has been scanned by [VirusTotal](https://www.virustotal.com/gui/file/46c9829b67691f88bb6b72169a2d8f42901100043ba3ac92ecea0fa8ddb3b797?nocache=1)
+
 
 ### Build requirements (if not already installed):
 
